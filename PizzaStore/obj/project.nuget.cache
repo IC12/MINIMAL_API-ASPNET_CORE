@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IBC2a8q7NZr48rss12eECg5071c0kKkmT/xsMSoICpAYi9g2/01FUCURZCd7i0uXj7c0f2Z41rmUoEYQY6F5QA==",
+  "dgSpecHash": "k6iK2C2Rh5/maQvFWCalF6zgWv25e/UAwz3zRXJOTpKSXMYmX8IiQV+0RP0LS0IlX9dpwk+hLs4hkgaV5krDJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar uma API Web com API Minimal e ASP.NET Core\\MINIMAL_API-ASPNET_CORE\\PizzaStore\\PizzaStore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\iara.camargos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\iara.camargos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\iara.camargos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\iara.camargos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\iara.camargos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\iara.camargos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
   "logs": []
 }
