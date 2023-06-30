@@ -1,2 +1,1 @@
-# MINIMAL_API-ASPNET_CORE
-Curso de API Minimal e ASP.NET Core do Microsoft Learn
+# Curso da Microsoft Learn: Criar uma API Web com API mínima, ASP.NET Core e .NET
