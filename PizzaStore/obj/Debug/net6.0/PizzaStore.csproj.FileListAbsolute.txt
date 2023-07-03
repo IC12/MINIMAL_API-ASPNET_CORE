@@ -24,3 +24,9 @@ C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal 
 C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
 C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
 C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\obj\Debug\net6.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CopyComplete
