@@ -30,3 +30,6 @@ C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal 
 C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\obj\Debug\net6.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CopyComplete
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iara.camargos\Documents\CURSOS\Curso Criar uma API Web com API Minimal e ASP.NET Core\MINIMAL_API-ASPNET_CORE\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
