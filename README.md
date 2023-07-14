@@ -19,4 +19,6 @@ Para persistir os dados, vamos usar o banco de dados relacional SQLite para arma
 
 - Instale o provedor do SQLite para EF Core 'dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 6.0';
 - Istale a ferramenta para realizar tarefas de desenvolvimento de tempo de design 'dotnet tool install --global dotnet-ef';
-- Pacote que contém toda a lógica de tempo de design para EF Core criar o banco 'dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0'.
+- Pacote que contém toda a lógica de tempo de design para EF Core criar o banco 'dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0';
+- EF Core cria uma pasta chamada Migrações no diretório que contém arquivos com migrações do banco de dados 'dotnet ef migrations add InitialCreate';
+- Aplicar as migrações 'dotnet ef database update'.
