@@ -22,3 +22,18 @@ Para persistir os dados, vamos usar o banco de dados relacional SQLite para arma
 - Pacote que contém toda a lógica de tempo de design para EF Core criar o banco 'dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0';
 - EF Core cria uma pasta chamada Migrações no diretório que contém arquivos com migrações do banco de dados 'dotnet ef migrations add InitialCreate';
 - Aplicar as migrações 'dotnet ef database update'.
+
+
+# Criação de app pilha completa front-end usando React e API Minimal para ASP.NET Core
+
+- Para criar um app React que funcione rápido, vamos usar o scaffolder create-react-app usando npx;
+- Num terminal, crie o app usando 'npx create-react-app pizza-web'. Obteve um diretório chamado pizza-web;
+- Para iniciar o app, 'cd pizza-web' e em seguida 'npm start';
+- No navegador, acesse http://localhost:3000;
+- Pressione Ctrl+C para encerrar a execução;
+- Para melhorar a aparência da interface do usuário, uma das sugestões seria usar a biblioteca styled-components;
+    (Digite 'npm add styled-components' depois 'npm install')
+    
+- Iniciar servidor fictício 'npx json-server --watch --port 5000 db.json';
+- No mesmo local do subdiretório PizzaStore execute 'dotnet ef database' para aplicar as migrações dbs com tabelas;
+    (Se o dotnet ef não puder ser encontrado 'dotnet tool install -g dotnet-ef', e repita o comando anterior)
